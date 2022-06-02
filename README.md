@@ -1,7 +1,14 @@
-Project: Lemonade App - Starter Code
+Project: Lemonade App - Finished Code
 ==================================
 
-Starter code for the first independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+Finished code for the first independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+
+![image](https://user-images.githubusercontent.com/74120992/171733256-547a4a26-964a-4e3b-96bb-b14ad9bb655f.png)
+![image](https://user-images.githubusercontent.com/74120992/171733297-e44cbd23-3de5-4c3d-90f0-54f836f5ca2c.png)
+![image](https://user-images.githubusercontent.com/74120992/171733340-c15da9fa-41a1-4b62-b3ff-e5dcdf28edc4.png)
+![image](https://user-images.githubusercontent.com/74120992/171733362-a7ec8c72-fc03-4971-9512-1a4ffbcc18e3.png)
+![image](https://user-images.githubusercontent.com/74120992/171733413-24f8b37a-6d39-4ae5-9161-d81a1b40bba1.png)
+
 
 Introduction
 ------------
